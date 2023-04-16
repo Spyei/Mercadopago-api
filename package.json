@@ -1,0 +1,22 @@
+{
+  "name": "mercadopagoapi",
+  "version": "1.0.0",
+  "description": "Um exemplo simples de como fazer um checkout de um pagamento pelo mercadopago api",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Spyei#7312",
+  "license": "ISC",
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "dotenv": "^16.0.3",
+    "mercadopago": "^1.5.15",
+    "qrcode": "^1.5.1"
+  },
+  "devDependencies": {
+    "@types/mercadopago": "^1.5.8",
+    "@types/figlet": "^1.5.5"
+  }
+}
