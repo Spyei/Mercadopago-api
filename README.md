@@ -13,3 +13,7 @@ Após fazer isso, só completar o arquivo `.env` com a seguinte configuração:
 token=seu token do mercado pago
 ```
 Para conseguir o token de acesso, só ir para o site: https://www.mercadopago.com.br/developers/panel/app/ e depois de criar uma aplicação, e você acessa-la vá em `Credenciais de produção` e copie o `Access Token` e cole no env. 
+
+#
+
+Para iniciar o projeto, use `ts-node index.ts`, certifique de ter instalado o ts-node.
